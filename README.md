@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachouhan03&label=Profile%20views&color=0e75b6&style=flat" alt="adityachouhan03" /> </p>
 
-- 🔭 I’m currently working on **Food Ordering web application**
+- 🔭 I’m currently foucsing on **competitive coding and web development**
 
 - 🌱 I’m currently learning **Reactjs Nodejs Nextjs**
 
